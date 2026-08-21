@@ -10,7 +10,7 @@ Filter issues by **labels, programming language, recency, and repository popular
 
 ## 🚀 Live Demo
 
-👉 **[Try Unassigned Issue Finder]((https://issue-finder-jgge.onrender.com/))**
+👉 **[Try Unassigned Issue Finder](YOUR_LIVE_DEMO_URL)**
 
 ---
 
@@ -57,3 +57,9 @@ Default labels include:
 ```text
 good first issue
 help wanted
+Default labels include:
+
+```text
+good first issue
+help wanted
+](https://issue-finder-jgge.onrender.com/)
