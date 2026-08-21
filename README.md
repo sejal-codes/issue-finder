@@ -10,7 +10,7 @@ Filter issues by **labels, programming language, recency, and repository popular
 
 ## 🚀 Live Demo
 
-👉 **[Try Unassigned Issue Finder](YOUR_LIVE_DEMO_URL)**
+👉 **[Try Unassigned Issue Finder]([YOUR_LIVE_DEMO_URL)](https://issue-finder-jgge.onrender.com/)**
 
 ---
 
