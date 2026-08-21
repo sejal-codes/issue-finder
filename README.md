@@ -10,7 +10,7 @@ Filter issues by **labels, programming language, recency, and repository popular
 
 ## 🚀 Live Demo
 
-👉 **([YOUR_LIVE_DEMO_URL)](https://issue-finder-jgge.onrender.com/)**
+👉 **([TRY NOW:)](https://issue-finder-jgge.onrender.com/)**
 
 ---
 
